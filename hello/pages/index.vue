@@ -14,7 +14,7 @@
 
 <script>
 const axios = require("axios");
-let url = "https://jsonplaceholder.typicode.com/usersxxx";
+let url = "https://jsonplaceholder.typicode.com/users";
 
 export default {
   asyncData({ params, error }) {
